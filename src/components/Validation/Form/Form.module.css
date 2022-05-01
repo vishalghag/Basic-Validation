@@ -1,0 +1,29 @@
+.comment{
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.comment1{
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.btn{
+    color: aliceblue;
+    background-color: navy;
+    margin-top: 10px;
+    width: 60px;
+    height: 20px;
+}
+
+.btn:hover{
+    background-color: brown;
+    color: beige;
+}
+
+.error{
+    color: red;
+    font-weight: 500;
+}
